@@ -6,7 +6,7 @@
 https://alegorithm-fxljyqhslq-uc.a.run.app/
 
 
-### Group Members: 
+### Group Members:
 ```
 + Barry Haygood - Project manager/Backend Developer
 + Sheetal Bongale - Lead Developer

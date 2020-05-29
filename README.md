@@ -8,12 +8,12 @@ https://alegorithm-fxljyqhslq-uc.a.run.app/
 
 ### Group Members: 
 ```
-+ Barry Haygood - Project manager
++ Barry Haygood - Project manager/Backend Developer
 + Sheetal Bongale - Lead Developer
-+ Cathy Egboh
-+ Maya Saeidi
-+ Michelle Brucato
-+ Sahar Mohammadi
++ Cathy Egboh - Fullstack Developer
++ Maya Saeidi - Frontend Developer
++ Michelle Brucato - Frontend Developer
++ Sahar Mohammadi - Frontend Developer
 ```
 
 <details>
